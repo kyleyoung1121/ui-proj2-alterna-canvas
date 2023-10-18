@@ -38,8 +38,10 @@ Students need to be able to view their grades on assignments, and their grade in
 Students need to be able to plan their work- using a calendar or to-do list.  
 Students need a Zoom connection option, but this feature does not need to be fully functional, leaving as "future work" connecting to Zoom.  
 As students do tasks in this class, the UI should update to reflect their progress in the class, using your gameification approach.  You should be able to perform a sequence of tasks for the student, and see changes in the UI.   
+
 A-goals:
 A rich, fully featured UI for all three courses.  All three courses for a mock student should be displayed, either in one page that integrates this information, or a set of sub pages/menus/regions on the screen. How will your gameification concept apply over multiple courses?  
+
 Develop several mock students to show how your UI motivates them to perform better, or celebrates their success.  
 Add a simulation that runs over the semester, to highlight how your page functions and updates for an example student over a length of time. 
 Excellent use of visual design principles, which shows thoughtful work in designing the UI.  
