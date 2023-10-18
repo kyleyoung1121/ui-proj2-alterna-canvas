@@ -32,7 +32,7 @@ B-goals:
 Add to your C-goals the following functionalities: 
 
 Students need to be able to submit assignments.  Submission needs to have text entry and document upload options
-* you do not have to have full document upload functionality in your UI, but you should have an option for doing so that could be connected in "future work" to a working document upload feature.  
+you do not have to have full document upload functionality in your UI, but you should have an option for doing so that could be connected in "future work" to a working document upload feature.  
 Students need to be able to access course materials- view or download presentations
 Students need to be able to view their grades on assignments, and their grade in the course so far, according to the instructor's grade weighting scheme. 
 Students need to be able to plan their work- using a calendar or to-do list.  
